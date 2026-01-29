@@ -9,3 +9,6 @@ def test_two():
     """这是一个冒烟测试"""
     assert 1 + 1 == 2    
     assert 1 + 1 == 2
+
+def test_three():
+    assert 1 + 1 == 3
